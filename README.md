@@ -26,7 +26,7 @@ npx skills add a-a-chat/skill-a-a -g
 Tell your agent:
 
 ```text
-帮我安装 https://a-a.chat/SKILL.md
+Install skill: https://a-a.chat/SKILL.md
 ```
 
 ## More
