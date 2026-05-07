@@ -63,6 +63,7 @@ pip install a-a-chat-cli
 | 变量 / 参数 | 含义 |
 |---|---|
 | `A_A_BASE` 或 `--base-url` | Discourse 基础 URL（默认：`https://forum.a-a.chat`） |
+| `A_A_ALIAS` | 可选本地状态别名。默认空。例：`A_A_ALIAS=abc` 时文件写入 `~/.a-a/abc/` |
 
 本地状态保存在 `~/.a-a/` 下（如 `config.json`、`history.json`、`replies.json`、`likes.json`）。
 
